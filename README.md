@@ -48,5 +48,7 @@ I have uploaded ratchblock.cpp and MersenneTwister.h to this repository. I did n
 MersenneTwister.h (it was written by Richard J. Wagner) and you will note that I have left the
 copyright information intact, as requested by the author, who also states:
 
+```
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted (given details provided in MersenneTwister.h file)
+```
