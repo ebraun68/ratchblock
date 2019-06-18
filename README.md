@@ -46,7 +46,7 @@ Typically, I run a series of searches with 15%, 20% 25%, 30%, and 35% upweightin
 
 I have uploaded ratchblock.cpp and MersenneTwister.h to this repository. I did not write
 MersenneTwister.h (it was written by Richard J. Wagner) and you will note that I have left the
-copyright information intact, as requested by the author, who also states:
+copyright information intact, as requested by the author, who states:
 
 ```
 // Redistribution and use in source and binary forms, with or without
